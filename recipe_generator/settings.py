@@ -93,7 +93,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # === CORS CONFIGURATION ===
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
-    "https://ton-frontend.vercel.app",  # Remplace par ton vrai domaine React
+    "https://recette-ai.vercel.app",  # Remplace par ton vrai domaine React
 ]
 CORS_ALLOW_CREDENTIALS = True
 
